@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "OCXReym8SR2ySBm1i2HjKW52tI4bP3iJUnLZkzy8+RbJ4y1gHJ+5Hxkmh1GtsyTQR+OWOileqXDu/Y4ZoGrBbw==",
+  "success": true,
+  "projectFilePath": "D:\\University 2021-2022\\CET300 - Computing Project\\Photo Presentation Maker\\Photo Presentation Maker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\giani\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\giani\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\giani\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\giani\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

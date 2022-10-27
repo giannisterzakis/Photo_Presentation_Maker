@@ -1,0 +1,17 @@
+D:\University 2021-2022\CET300 - Computing Project\Photo Presentation Maker\bin\Debug\netcoreapp3.1\Photo Presentation Maker.exe
+D:\University 2021-2022\CET300 - Computing Project\Photo Presentation Maker\bin\Debug\netcoreapp3.1\Photo Presentation Maker.deps.json
+D:\University 2021-2022\CET300 - Computing Project\Photo Presentation Maker\bin\Debug\netcoreapp3.1\Photo Presentation Maker.runtimeconfig.json
+D:\University 2021-2022\CET300 - Computing Project\Photo Presentation Maker\bin\Debug\netcoreapp3.1\Photo Presentation Maker.runtimeconfig.dev.json
+D:\University 2021-2022\CET300 - Computing Project\Photo Presentation Maker\bin\Debug\netcoreapp3.1\Photo Presentation Maker.dll
+D:\University 2021-2022\CET300 - Computing Project\Photo Presentation Maker\bin\Debug\netcoreapp3.1\Photo Presentation Maker.pdb
+D:\University 2021-2022\CET300 - Computing Project\Photo Presentation Maker\obj\Debug\netcoreapp3.1\Photo Presentation Maker.csproj.AssemblyReference.cache
+D:\University 2021-2022\CET300 - Computing Project\Photo Presentation Maker\obj\Debug\netcoreapp3.1\Photo_Presentation_Maker.MainForm.resources
+D:\University 2021-2022\CET300 - Computing Project\Photo Presentation Maker\obj\Debug\netcoreapp3.1\Photo Presentation Maker.csproj.GenerateResource.cache
+D:\University 2021-2022\CET300 - Computing Project\Photo Presentation Maker\obj\Debug\netcoreapp3.1\Photo Presentation Maker.AssemblyInfoInputs.cache
+D:\University 2021-2022\CET300 - Computing Project\Photo Presentation Maker\obj\Debug\netcoreapp3.1\Photo Presentation Maker.AssemblyInfo.cs
+D:\University 2021-2022\CET300 - Computing Project\Photo Presentation Maker\obj\Debug\netcoreapp3.1\Photo Presentation Maker.csproj.CoreCompileInputs.cache
+D:\University 2021-2022\CET300 - Computing Project\Photo Presentation Maker\obj\Debug\netcoreapp3.1\Photo Presentation Maker.dll
+D:\University 2021-2022\CET300 - Computing Project\Photo Presentation Maker\obj\Debug\netcoreapp3.1\Photo Presentation Maker.pdb
+D:\University 2021-2022\CET300 - Computing Project\Photo Presentation Maker\obj\Debug\netcoreapp3.1\Photo Presentation Maker.genruntimeconfig.cache
+D:\University 2021-2022\CET300 - Computing Project\Photo Presentation Maker\obj\Debug\netcoreapp3.1\Photo_Presentation_Maker.Properties.Resources.resources
+D:\University 2021-2022\CET300 - Computing Project\Photo Presentation Maker\obj\Debug\netcoreapp3.1\Photo Presentation Maker.GeneratedMSBuildEditorConfig.editorconfig
